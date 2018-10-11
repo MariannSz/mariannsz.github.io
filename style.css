@@ -1,0 +1,54 @@
+body,
+html {
+  	height: 100%;
+  	width: 100%;
+  	
+}
+
+body {
+  	font-family: 'Montserrat', sans-serif;
+}
+
+header.self-assesment {
+  background-position: center;
+  background-image: url("selfABckgr.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+.container {
+	background: rgba(255, 246, 239, 0.9);
+	text-align: center;
+	border-radius: 50px;
+	padding: 50px 0;
+	color: rgba(103, 111, 131, 0.6);
+}
+
+#mc_embed_signup_scroll {
+	text-align: center;
+}
+
+h1, p {
+	font-weight: bold;
+	padding: 20px;
+}
+
+h1 {
+	text-transform: uppercase;
+	}
+
+p {
+	padding: 10px;
+}
+
+.btn {
+	background-color: rgb(75, 85, 110);
+	border-radius: 50px;
+}
+
+.btn:hover {
+	background-color: rgb(96, 135, 165);
+	cursor: pointer;
+	border-width: 5px !important;
+}
+
